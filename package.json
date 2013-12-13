@@ -1,0 +1,21 @@
+{
+  "name": "fis-cloud-app-test",
+  "version": "0.0.3",
+  "description": "fis-cloud-app-test",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {},
+  "keywords": [
+    "test",
+    "fis-cloud-app",
+    "fis-cloud-app-test"
+  ],
+  "author": {
+    "name": "tanwenmin: fis-team"
+  },
+  "license": "BSD",
+  "readme": "fis-cloud-app-test\n=====================\nfor fis-cloud-kernel\n\nBY tanwenmin\n10/22/2013",
+  "readmeFilename": "README.md",
+  "_id": "fis-cloud-app-test@0.0.1",
+  "_from": "fis-cloud-app-test@"
+}
